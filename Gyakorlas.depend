@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1709310168 source:c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\main.cpp
+	<iostream>
+	"pont.h"
+	"public-circle.h"
+	"circle.h"
+	"panda.h"
+	"player.h"
+
+1709306744 c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\pont.h
+
+1709307030 source:c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\pont.cpp
+	"pont.h"
+	<iostream>
+	<cmath>
+
+1709307509 c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\public-circle.h
+
+1709307778 source:c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\public-circle.cpp
+	"public-circle.h"
+	<cmath>
+
+1709308256 c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\circle.h
+
+1709308474 source:c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\circle.cpp
+	"circle.h"
+	<stdexcept>
+	<cmath>
+
+1709309241 c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\panda.h
+
+1709309451 source:c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\panda.cpp
+	<iostream>
+	"panda.h"
+
+1709311005 c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\player.h
+	"vehicle.h"
+	<string>
+
+1709311153 c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\vehicle.h
+	<string>
+
+1709311251 source:c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\vehicle.cpp
+	"vehicle.h"
+	<string>
+
+1709311200 source:c:\users\danielmolnar\onedrive\desktop\tanulas\gyakorlas\player.cpp
+	"player.h"
+	<string>
+	<iostream>
+
